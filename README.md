@@ -1,2 +1,1 @@
 # Calculator
-你们照着教学视频里面的方法创一个新的project和form窗口，然后把我的代码copy&past过去就可以开始了。
